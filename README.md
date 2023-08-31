@@ -29,5 +29,5 @@ Follow these steps to use the script:
 3. Or run in using Docker
 ```bash
    docker build -t job_task .
-   docker run job_task
+   docker run -it job_task
 ```
