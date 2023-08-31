@@ -26,7 +26,7 @@ Follow these steps to use the script:
    python main.py
 ```
 
-3. Or run in using Docker
+3. Or run it by using Docker
 ```bash
    docker build -t job_task .
    docker run -it job_task
